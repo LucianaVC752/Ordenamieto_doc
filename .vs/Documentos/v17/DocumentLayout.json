@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\Ordenamiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63039BF6-E38F-4577-BCEB-ED92D03782A1}|Documentos\\Documentos.csproj|c:\\users\\hp\\downloads\\ordenamiento\\documentos\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63039BF6-E38F-4577-BCEB-ED92D03782A1}|Documentos\\Documentos.csproj|solutionrelative:documentos\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63039BF6-E38F-4577-BCEB-ED92D03782A1}|Documentos\\Documentos.csproj|c:\\users\\hp\\downloads\\ordenamiento\\documentos\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63039BF6-E38F-4577-BCEB-ED92D03782A1}|Documentos\\Documentos.csproj|solutionrelative:documentos\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63039BF6-E38F-4577-BCEB-ED92D03782A1}|Documentos\\Documentos.csproj|C:\\Users\\hp\\Downloads\\Ordenamiento\\documentos\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63039BF6-E38F-4577-BCEB-ED92D03782A1}|Documentos\\Documentos.csproj|solutionrelative:documentos\\frmdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Ordenamiento\\Documentos\\Documento.cs",
+              "RelativeDocumentMoniker": "Documentos\\Documento.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Ordenamiento\\Documentos\\Documento.cs",
+              "RelativeToolTip": "Documentos\\Documento.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:21:47.374Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDocumentos.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Ordenamiento\\Documentos\\FrmDocumentos.cs",
+              "RelativeDocumentMoniker": "Documentos\\FrmDocumentos.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Ordenamiento\\Documentos\\FrmDocumentos.cs",
+              "RelativeToolTip": "Documentos\\FrmDocumentos.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwDwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:20:12.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDocumentos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Ordenamiento\\Documentos\\FrmDocumentos.cs",
+              "RelativeDocumentMoniker": "Documentos\\FrmDocumentos.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IUPB_ED_Ordenamiento\\Documentos\\FrmDocumentos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\IUPB_ED_Ordenamiento\\Documentos\\FrmDocumentos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:20:14.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

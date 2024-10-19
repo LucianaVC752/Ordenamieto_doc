@@ -1,0 +1,74 @@
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\bin\Debug\net8.0-windows\Documentos.exe
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\bin\Debug\net8.0-windows\Datos\Datos.csv
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\bin\Debug\net8.0-windows\Documentos.deps.json
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\bin\Debug\net8.0-windows\Documentos.runtimeconfig.json
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\bin\Debug\net8.0-windows\Documentos.dll
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\bin\Debug\net8.0-windows\Documentos.pdb
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.FrmDocumentos.resources
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.Properties.Resources.resources
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.csproj.GenerateResource.cache
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.AssemblyInfoInputs.cache
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.AssemblyInfo.cs
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.csproj.CoreCompileInputs.cache
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.dll
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\refint\Documentos.dll
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.pdb
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.genruntimeconfig.cache
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\ref\Documentos.dll
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\bin\Debug\net8.0-windows\Documentos.exe
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\bin\Debug\net8.0-windows\Datos\Datos.csv
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\bin\Debug\net8.0-windows\Documentos.deps.json
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\bin\Debug\net8.0-windows\Documentos.runtimeconfig.json
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\bin\Debug\net8.0-windows\Documentos.dll
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\bin\Debug\net8.0-windows\Documentos.pdb
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.FrmDocumentos.resources
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.Properties.Resources.resources
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.csproj.GenerateResource.cache
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.AssemblyInfoInputs.cache
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.AssemblyInfo.cs
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.csproj.CoreCompileInputs.cache
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.dll
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\refint\Documentos.dll
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.pdb
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\Documentos.genruntimeconfig.cache
+D:\Catedra\IU Pascual Bravo\Estructura de Datos\Cursos\Curso 2024-02\Ejercicios\Documentos\Documentos\obj\Debug\net8.0-windows\ref\Documentos.dll
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\bin\Debug\net8.0-windows\Documentos.exe
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\bin\Debug\net8.0-windows\Datos\Datos.csv
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\bin\Debug\net8.0-windows\Documentos.deps.json
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\bin\Debug\net8.0-windows\Documentos.runtimeconfig.json
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\bin\Debug\net8.0-windows\Documentos.dll
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\bin\Debug\net8.0-windows\Documentos.pdb
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.FrmDocumentos.resources
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.Properties.Resources.resources
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.csproj.GenerateResource.cache
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.AssemblyInfoInputs.cache
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.AssemblyInfo.cs
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.sourcelink.json
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.dll
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\refint\Documentos.dll
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.pdb
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.genruntimeconfig.cache
+C:\Users\hp\Source\Repos\IUPB_ED_Ordenamiento\Documentos\obj\Debug\net8.0-windows\ref\Documentos.dll
+C:\Users\hp\Downloads\Ordenamiento\Documentos\bin\Debug\net8.0-windows\Documentos.exe
+C:\Users\hp\Downloads\Ordenamiento\Documentos\bin\Debug\net8.0-windows\Datos\Datos.csv
+C:\Users\hp\Downloads\Ordenamiento\Documentos\bin\Debug\net8.0-windows\Documentos.deps.json
+C:\Users\hp\Downloads\Ordenamiento\Documentos\bin\Debug\net8.0-windows\Documentos.runtimeconfig.json
+C:\Users\hp\Downloads\Ordenamiento\Documentos\bin\Debug\net8.0-windows\Documentos.dll
+C:\Users\hp\Downloads\Ordenamiento\Documentos\bin\Debug\net8.0-windows\Documentos.pdb
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.FrmDocumentos.resources
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.Properties.Resources.resources
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.AssemblyInfo.cs
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.sourcelink.json
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.dll
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\refint\Documentos.dll
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.pdb
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\Documentos.genruntimeconfig.cache
+C:\Users\hp\Downloads\Ordenamiento\Documentos\obj\Debug\net8.0-windows\ref\Documentos.dll
